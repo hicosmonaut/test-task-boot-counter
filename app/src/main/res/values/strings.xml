@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Boot counter</string>
+    <string name="label_no_boots_detected">No boots detected</string>
+    <string name="data_the_boot_was_detected">The boot was detected = %s</string>
+    <string name="data_last_boots_time_delta">Last boots time delta = %s</string>
+    <string name="label_updating_boot_history">Updating boot history…</string>
+    <string name="data_boot_date_and_count">• %1$s - %2$d</string>
+    <string name="label_request_notification_permission">Request notification permission</string>
+    <string name="label_empty"/>
+    <string name="label_permission_granted">Permission granted</string>
+    <string name="label_permission_not_granted">Permission not granted</string>
+
 </resources>
